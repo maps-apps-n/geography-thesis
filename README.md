@@ -1,2 +1,2 @@
 # geography-thesis
-Files from my thesis for an MSc in Geography
+Files from my thesis for MSc in Human Geography (2015)
