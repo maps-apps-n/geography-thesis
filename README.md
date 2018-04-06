@@ -1,5 +1,7 @@
 # geography-thesis
-Files from my thesis for MSc in Human Geography (2015)
+Thesis for MSc in Human Geography (2015)
+
+"A multilevel and spatial analysis of geographical variation and determinants in TB incidence in Bolivia"
 
 Ch. 1 Introduction <BR>
 Ch. 2 Literature review <BR>
